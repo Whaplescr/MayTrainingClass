@@ -2,3 +2,5 @@
 .idea
 .idea/*
 geckodriver.log
+.venv
+.venv/*
